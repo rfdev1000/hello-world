@@ -1,2 +1,5 @@
 # hello-world
-Hello World
+Introductory GitHub Project: Hello World
+
+Let's see what I can do here.
+
